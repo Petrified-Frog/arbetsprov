@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(247, 243, 252);
+}
+a{
+    color: rgb(255, 255, 255);
+}
+li{
+    list-style: none;
+    
+}
+.fas{
+    font-size: 3rem;
+}
+.icon-space{
+    flex: 1;
+}
+.text-space{
+    flex: 10;
+}
+
+#profile{
+    flex: 2;    
+}
+#mainsection{
+    flex: 6;
+}
+#shortcuts{
+    flex: 1;    
+}
+
+.shortcut_btn{
+    margin-bottom: 5px;
+}
+
+.card.shadow{
+    margin-bottom: 1rem;
+}
+
+.ms-h2{
+    color: rgb(104, 104, 104);
+    margin-bottom: 1rem;
+}
+.skill-h2{
+    color: rgb(104, 104, 104);
+    margin-bottom: 1rem;
+    
+}
+.ms-head{
+    font-weight: bold;
+    color: rgb(104, 104, 104);
+    margin-bottom: 0rem;
+}
+.ms-date{
+    color: skyblue;
+    margin-bottom: 0rem;
+}
+.ms-text{
+    color: rgb(104, 104, 104);
+}
+
+#profile-text{
+    background-color: rgb(115, 170, 253);
+    color: rgb(255, 255, 255);
+}
+
+.skills{  
+    
+}
+.skill{
+    flex: 1;    
+    text-align: left;    
+}
+
+.btn-primary{
+    margin-bottom: 1rem;
+}
